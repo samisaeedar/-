@@ -1,0 +1,5 @@
+{
+  "name": "المدون الذكي - Smart AI Notes",
+  "description": "تطبيق تدوين ملاحظات عالمي يجمع بين ذكاء Gemini وسحابة Firebase لمزامنة بياناتك في الوقت الفعلي.",
+  "requestFramePermissions": []
+}
